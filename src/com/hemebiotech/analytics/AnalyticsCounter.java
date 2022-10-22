@@ -36,7 +36,7 @@ public class AnalyticsCounter {
 		int headacheCount = 0;
 		writer.write("headache: " + headacheCount + "\n");
 		writer.write("rash: " + rashCount + "\n");
-		writer.write("dialated pupils: " + pupilCount + "\n");
+		writer.write("Dialated pupils: " + pupilCount + "\n");
 		writer.close();
 	}
 }
